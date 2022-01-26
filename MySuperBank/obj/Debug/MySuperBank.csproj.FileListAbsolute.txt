@@ -5,3 +5,10 @@ C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\MySuperBank\obj\Debug\MySuperBank
 C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\MySuperBank\obj\Debug\MySuperBank.csproj.CoreCompileInputs.cache
 C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\MySuperBank\obj\Debug\MySuperBank.exe
 C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\MySuperBank\obj\Debug\MySuperBank.pdb
+C:\Users\vitor.guimaraes.GRUPOLTM\Desktop\CSharp101\MySuperBank\bin\Debug\MySuperBank.exe.config
+C:\Users\vitor.guimaraes.GRUPOLTM\Desktop\CSharp101\MySuperBank\bin\Debug\MySuperBank.exe
+C:\Users\vitor.guimaraes.GRUPOLTM\Desktop\CSharp101\MySuperBank\bin\Debug\MySuperBank.pdb
+C:\Users\vitor.guimaraes.GRUPOLTM\Desktop\CSharp101\MySuperBank\obj\Debug\MySuperBank.csproj.AssemblyReference.cache
+C:\Users\vitor.guimaraes.GRUPOLTM\Desktop\CSharp101\MySuperBank\obj\Debug\MySuperBank.csproj.CoreCompileInputs.cache
+C:\Users\vitor.guimaraes.GRUPOLTM\Desktop\CSharp101\MySuperBank\obj\Debug\MySuperBank.exe
+C:\Users\vitor.guimaraes.GRUPOLTM\Desktop\CSharp101\MySuperBank\obj\Debug\MySuperBank.pdb
