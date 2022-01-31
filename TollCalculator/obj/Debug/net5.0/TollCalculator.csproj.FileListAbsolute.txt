@@ -1,0 +1,16 @@
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\bin\Debug\net5.0\TollCalculator.exe
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\bin\Debug\net5.0\TollCalculator.deps.json
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\bin\Debug\net5.0\TollCalculator.runtimeconfig.json
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\bin\Debug\net5.0\TollCalculator.runtimeconfig.dev.json
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\bin\Debug\net5.0\TollCalculator.dll
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\bin\Debug\net5.0\ref\TollCalculator.dll
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\bin\Debug\net5.0\TollCalculator.pdb
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\obj\Debug\net5.0\TollCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\obj\Debug\net5.0\TollCalculator.AssemblyInfoInputs.cache
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\obj\Debug\net5.0\TollCalculator.AssemblyInfo.cs
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\obj\Debug\net5.0\TollCalculator.csproj.CoreCompileInputs.cache
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\obj\Debug\net5.0\TollCalculator.dll
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\obj\Debug\net5.0\ref\TollCalculator.dll
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\obj\Debug\net5.0\TollCalculator.pdb
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\obj\Debug\net5.0\TollCalculator.genruntimeconfig.cache
+C:\Users\vitor.guimaraes.GRUPOLTM\source\repos\TollCalculator\obj\Debug\net5.0\TollCalculator.csproj.AssemblyReference.cache
