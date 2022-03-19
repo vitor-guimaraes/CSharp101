@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vitor.guimaraes.GRUPOLTM\\source\\repos\\TollCalculator\\TollCalculator.csproj": {}
+    "C:\\Users\\vitor.guimaraes.GRUPOLTM\\Desktop\\CSharp101\\TollCalculator\\TollCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vitor.guimaraes.GRUPOLTM\\source\\repos\\TollCalculator\\TollCalculator.csproj": {
+    "C:\\Users\\vitor.guimaraes.GRUPOLTM\\Desktop\\CSharp101\\TollCalculator\\TollCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vitor.guimaraes.GRUPOLTM\\source\\repos\\TollCalculator\\TollCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\vitor.guimaraes.GRUPOLTM\\Desktop\\CSharp101\\TollCalculator\\TollCalculator.csproj",
         "projectName": "TollCalculator",
-        "projectPath": "C:\\Users\\vitor.guimaraes.GRUPOLTM\\source\\repos\\TollCalculator\\TollCalculator.csproj",
+        "projectPath": "C:\\Users\\vitor.guimaraes.GRUPOLTM\\Desktop\\CSharp101\\TollCalculator\\TollCalculator.csproj",
         "packagesPath": "C:\\Users\\vitor.guimaraes.GRUPOLTM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vitor.guimaraes.GRUPOLTM\\source\\repos\\TollCalculator\\obj\\",
+        "outputPath": "C:\\Users\\vitor.guimaraes.GRUPOLTM\\Desktop\\CSharp101\\TollCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vitor.guimaraes.GRUPOLTM\\AppData\\Roaming\\NuGet\\NuGet.Config",
